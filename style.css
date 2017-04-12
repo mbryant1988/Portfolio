@@ -1,0 +1,9 @@
+.navbar{
+  margin-bottom:0;
+  border-radius: 0;
+  position: fixed;
+}
+
+.navbar-inverse{
+  background-color: rgb(72, 2, 101)
+}
