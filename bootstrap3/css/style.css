@@ -7,3 +7,10 @@
 .navbar-inverse{
   background-color: purple;
 }
+
+.jumbotron{
+  padding-top: 260px;
+  padding-bottom: 260px;
+  background-color: black;
+  color:white;
+}
