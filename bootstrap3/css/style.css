@@ -1,4 +1,9 @@
 .navbar{
   margin-bottom:0;
   border-radius: 0;
+  padding: 6px 0
+}
+
+.navbar-inverse{
+  background-color: purple;
 }
