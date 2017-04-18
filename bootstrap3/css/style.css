@@ -11,8 +11,8 @@
 #welcome{
   padding-top: 260px;
   padding-bottom: 260px;
-  background-color: black;
-  color:white;
+  background-color: rgba(0,0,0,0.25);
+  color:black;
 }
 
 #portfolio{
@@ -21,4 +21,18 @@
 
 #portfolio h1{
   color:white;
+}
+
+.btn{
+  background-color: black;
+}
+
+.btn a{
+  color:purple;
+}
+
+body {
+  background-image: url("../../img/backgroundhtml.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
