@@ -9,19 +9,24 @@
 }
 
 #welcome{
-  padding-top: 260px;
-  padding-bottom: 260px;
+  /*padding-top: 260px;
+  padding-bottom: 260px;*/
   background-color: rgba(0,0,0,0.25);
   color:black;
 }
 
 #portfolio{
   background-color:rgba(0,0,0,0.25);
+  padding-bottom: 2%;
+  color: black;
 }
 
+#profile{
+  border-radius: 200px;
+}
 
-#portfolio h1{
-  color:white;
+.mywork{
+  padding-bottom: 2%;
 }
 
 .btn{
@@ -32,10 +37,18 @@
   color:purple;
 }
 
+#about ul, h2{
+  font-weight: bold;
+}
+
 body {
   background-image: url("../../img/backgroundhtml.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
+}
+
+#about{
+  color:black;
 }
 
 #about, #contact, #portfolio, .well{
