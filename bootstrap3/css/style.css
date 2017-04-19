@@ -19,6 +19,7 @@
   background-color:rgba(0,0,0,0.25);
 }
 
+
 #portfolio h1{
   color:white;
 }
@@ -37,7 +38,17 @@ body {
   background-size: 100% 100%;
 }
 
-#contact, #portfolio{
+#contact, #portfolio, .well{
   margin-top:2%;
   border-radius:0;
+  background-color:rgba(0,0,0,0.25);
+}
+
+#contact .well{
+  border: 0px;
+  color:black;
+}
+
+#contact .well a, i{
+  color:purple;
 }
